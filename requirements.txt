@@ -1,0 +1,5 @@
+behave==1.2.6
+coverage==6.0.2
+flake8==3.9.2
+mypy==0.910
+prospector==1.5.1
